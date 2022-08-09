@@ -3,6 +3,4 @@
 ### 以技术之名 👋
 
 
-
-- :orange_book: Focusing on Swift & Objective-C & iOS
-
+- :orange_book: Focusing on Swift & Objective-C & Java
